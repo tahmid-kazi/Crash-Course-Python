@@ -1,3 +1,4 @@
+#Exercise 2-7
 name = "\t Foo Bar  \n\t"
 print(name)
 #print(name.lstrip())
